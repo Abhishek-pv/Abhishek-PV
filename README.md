@@ -3,7 +3,7 @@ Hello there 👋
 Thanks for visiting my profile, I'm a data scieintist and engineer based out in Canada:
 
 - 🔭 I’m currently working on building end-to-end machine learing pipeline for calssifying sentiments on Amazon reviews.
-- 🌱 I’m currently learning NLP, data streams and prepearing for Apache Spark data bricks certification.
+- 🌱 I’m currently learning NLP, data streams and preparing for Apache Spark databricks certification.
 - 👯 I’m looking to collaborate on machine learning or data engineering related projects.
 - 📫 How to reach me: reach me at abhishek.pv@outlook.com
 - 😄 Pronouns: He / Mr
