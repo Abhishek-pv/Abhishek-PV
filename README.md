@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Abhishek-pv/Abhishek-pv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello there 👋
 
 Thanks for visiting my profile, I'm a data scieintist and engineer based out in Canada:
@@ -14,4 +9,3 @@ Thanks for visiting my profile, I'm a data scieintist and engineer based out in 
 - 😄 Pronouns: He / Mr
 - ⚡ Fun fact: Machine Learning practioner, Coffee person, challenge me for a badminton match.
 
--->
