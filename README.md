@@ -7,5 +7,5 @@ Thanks for visiting my profile, I'm a data scieintist and engineer based out in 
 - 👯 I’m looking to collaborate on machine learning or data engineering related projects.
 - 📫 How to reach me: abhishek.pv@outlook.com
 - 😄 Pronouns: He / Mr
-- ⚡ Fun fact: Machine Learning practioner, Coffee person, challenge me for a badminton match.
+- ⚡ Fun fact: Machine Learning practioner, Coffee person, classical right hand batsman and fearsome fast paced right hand bowler, challenge me for a badminton match.
 
